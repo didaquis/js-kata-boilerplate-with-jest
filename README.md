@@ -6,7 +6,7 @@ This is a boilerplate ready for doing katas in JavaScript.
 Jest is the library used for testing. Documentation is available [here](https://jestjs.io). 
 
 ## How to use:
-This boilerplate requires [Node.js](https://nodejs.org) 12 or higher installed on your computer.
+This boilerplate requires [Node.js](https://nodejs.org) 14 or higher installed on your computer.
 
 Clone or download this repository and then install the dependencies: `npm install`.  
 
