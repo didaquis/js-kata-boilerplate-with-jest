@@ -1,4 +1,4 @@
-const foo = require('../src/index.js');
+import { foo } from '../src/index.js';
 
 describe('foo', () => {
 	it('should be defined', () => {
