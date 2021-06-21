@@ -1,6 +1,6 @@
 {
   "name": "kata-js",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": true,
   "description": "kata js",
   "main": "src/index.js",
@@ -22,10 +22,10 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "@babel/preset-env": "^7.14.5",
-    "babel-jest": "^26.6.3",
-    "eslint": "^7.28.0",
-    "jest": "^26.6.3",
+    "@babel/preset-env": "^7.14.7",
+    "babel-jest": "^27.0.2",
+    "eslint": "^7.29.0",
+    "jest": "^27.0.4",
     "live-server": "^1.2.1",
     "nodemon": "^2.0.7"
   }
