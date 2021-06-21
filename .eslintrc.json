@@ -8,7 +8,11 @@
 		"ecmaVersion": 2020,
 		"sourceType": "module"
 	},
+	"plugins": [
+		"no-lenght"
+	],
 	"rules": {
+		"no-lenght/no-lenght": "error",
 		"indent": [
 			"error",
 			"tab",
@@ -36,7 +40,6 @@
 		"semi-spacing": ["error"],
 		"space-before-function-paren": ["error"],
 		"no-multi-spaces": "error",
-		"no-magic-numbers": ["warn", { "ignoreArrayIndexes": true }],
 		"valid-typeof": "error"
 	}
 }
