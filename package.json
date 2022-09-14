@@ -21,7 +21,6 @@
   ],
   "author": "Dídac García",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
     "@babel/preset-env": "^7.16.5",
     "babel-jest": "^27.4.5",
