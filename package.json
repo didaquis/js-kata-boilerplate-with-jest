@@ -1,6 +1,6 @@
 {
   "name": "kata-js",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "kata js",
   "main": "src/index.js",
@@ -22,12 +22,12 @@
   "author": "Dídac García",
   "license": "ISC",
   "devDependencies": {
-    "@babel/preset-env": "^7.19.1",
-    "@didaquis/eslint-plugin-no-lenght": "^1.1.0",
-    "babel-jest": "^29.0.3",
+    "@babel/preset-env": "^7.19.3",
+    "@didaquis/eslint-plugin-no-lenght": "^1.1.2",
+    "babel-jest": "^29.1.0",
     "eslint": "^8.24.0",
-    "jest": "^29.0.3",
+    "jest": "^29.1.1",
     "live-server": "^1.2.2",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.20"
   }
 }
