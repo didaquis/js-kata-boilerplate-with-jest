@@ -12,6 +12,7 @@ Clone or download this repository and then install the dependencies: `npm instal
 
 *Useful commands:*
 * Run the code: `npm run start`.  
+* Run the code in watch mode: `npm run dev`.  
 * Run the test: `npm run test`.  
 * Run the test with 'watch' option: `npm run test:watch`.  
 * Run the test with code coverage: `npm run test:coverage`.  
