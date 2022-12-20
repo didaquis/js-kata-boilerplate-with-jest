@@ -10,6 +10,7 @@
   "type": "module",
   "scripts": {
     "start": "node .",
+    "dev": "nodemon .",
     "lint": "eslint --ext .js .",
     "test": "jest",
     "test:coverage": "jest --coverage && live-server ./coverage/lcov-report",
