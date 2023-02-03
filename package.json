@@ -23,11 +23,11 @@
   "author": "Dídac García",
   "license": "ISC",
   "devDependencies": {
-    "@babel/preset-env": "^7.19.4",
+    "@babel/preset-env": "^7.20.2",
     "@didaquis/eslint-plugin-no-lenght": "^1.1.2",
-    "babel-jest": "^29.2.2",
-    "eslint": "^8.26.0",
-    "jest": "^29.2.2",
+    "babel-jest": "^29.4.1",
+    "eslint": "^8.33.0",
+    "jest": "^29.4.1",
     "live-server": "^1.2.2",
     "nodemon": "^2.0.20"
   }
